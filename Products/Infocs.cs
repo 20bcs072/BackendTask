@@ -181,8 +181,20 @@ public int GetCount()
 
         public void InsertReport(Report newReport)
         {
-            appsContext.Report.Add(newReport);
-           appsContext.SaveChanges();
+            bool isValid = CheckDateValidity(newReport.fromDate, newReport.toDate);
+            if (isValid)
+            {
+                appsContext.Report.Add(newReport);
+                appsContext.SaveChanges();
+            }
+            else
+            {
+                throw new InvalidOperationException("To date should be greater than From date!!");
+            }
+        }
+        private bool CheckDateValidity(DateOnly fromDate, DateOnly toDate)
+        {
+            return fromDate < toDate;
         }
 
     } 

@@ -144,9 +144,10 @@ public class ProductController :ControllerBase
             return Ok(equipment);
         }
 
-       [ HttpGet("ReportDetails")]
+       [HttpGet("ReportDetails")]
 
        public ActionResult<IEnumerable<Report>> GetReportDetails()
+    // public async Task<IActionResult> GetReportDetails()
        {
         var rep=_bankService.GetReportDetails();
         return Ok(rep);

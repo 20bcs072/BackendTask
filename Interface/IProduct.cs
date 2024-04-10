@@ -16,7 +16,7 @@ namespace product.Interface
 
         public Task<Product> getUserById(int id);  
 
-          public void InsertProduct(Product newProduct);
+          // public void InsertProduct(Product newProduct);
 
 
     public IActionResult AddReport ([FromBody] Report newReport);
@@ -37,7 +37,7 @@ namespace product.Interface
                    public ActionResult<IEnumerable<Report>> GetReportDetails();
         void InsertProduct(Report newReport);
         void InsertReport(Report newReport);
-
+        void InsertProduct(Product newProduct);
     }
            
 }

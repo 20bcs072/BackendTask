@@ -108,9 +108,6 @@ C:\Users\Ragav.Sanjay\Videos\New folder\product\bin\Debug\net8.0\runtimes\win-ar
 C:\Users\Ragav.Sanjay\Videos\New folder\product\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Ragav.Sanjay\Videos\New folder\product\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\Ragav.Sanjay\Videos\New folder\product\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-C:\Users\Ragav.Sanjay\Videos\New folder\product\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-C:\Users\Ragav.Sanjay\Videos\New folder\product\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-C:\Users\Ragav.Sanjay\Videos\New folder\product\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 C:\Users\Ragav.Sanjay\Videos\New folder\product\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\Ragav.Sanjay\Videos\New folder\product\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Ragav.Sanjay\Videos\New folder\product\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
@@ -136,3 +133,10 @@ C:\Users\Ragav.Sanjay\Videos\New folder\product\obj\Debug\net8.0\product.pdb
 C:\Users\Ragav.Sanjay\Videos\New folder\product\obj\Debug\net8.0\product.genruntimeconfig.cache
 C:\Users\Ragav.Sanjay\Videos\New folder\product\obj\Debug\net8.0\ref\product.dll
 C:\Users\Ragav.Sanjay\Videos\New folder\product\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Ragav.Sanjay\Videos\New folder\product\obj\Debug\net8.0\product.sourcelink.json
+C:\Users\Ragav.Sanjay\Videos\New folder\product\bin\Debug\net8.0\EPPlus.dll
+C:\Users\Ragav.Sanjay\Videos\New folder\product\bin\Debug\net8.0\EPPlus.Interfaces.dll
+C:\Users\Ragav.Sanjay\Videos\New folder\product\bin\Debug\net8.0\EPPlus.System.Drawing.dll
+C:\Users\Ragav.Sanjay\Videos\New folder\product\bin\Debug\net8.0\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Ragav.Sanjay\Videos\New folder\product\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Ragav.Sanjay\Videos\New folder\product\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
